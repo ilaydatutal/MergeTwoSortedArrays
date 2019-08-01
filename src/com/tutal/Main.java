@@ -1,4 +1,4 @@
-package com.company;
+package com.tutal;
 
 public class Main {
 
