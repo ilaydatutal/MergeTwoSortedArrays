@@ -42,5 +42,9 @@ public class Main {
 
     }
 
+    public static int[] mergeArrays(int[] arr1, int[] arr2){
+        return new int[10];
+    }
+
 
 }
